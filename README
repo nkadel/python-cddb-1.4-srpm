@@ -1,0 +1,2 @@
+Modified python-cddb SRPM tools from Repoforge, for RHEL 6 compatibility.
+Adds dist based logic to include Python 2.6 generated *-info files.
